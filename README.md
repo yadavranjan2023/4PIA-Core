@@ -1,12 +1,13 @@
-# 4PIA: 4 People in AI (`SKILL.md` Executive Framework)
+# 4PIA-Core: Operationalizing Rights-by-Design Across Autonomous AI
 
-> **Operationalizing Rights-by-Design Across the C-Suite** > *Based on the theoretical framework in ["Constitutional Democracy in the Algorithmic Age: A Practical Framework for Preserving Citizen Rights"](https://link.springer.com/book/9783032346032) (Springer) by Rani Yadav-Ranjan.*
+> **The Foundational Machine-Executable Skill Engine for Executive AI Governance**
+> *Based on the theoretical framework in ["Constitutional Democracy in the Algorithmic Age: A Practical Framework for Preserving Citizen Rights"](https://link.springer.com/book/9783032346032) (Springer) by Rani Yadav-Ranjan.*
 
 ---
 
 ## 📌 Overview
 
-As enterprise workflows transition from static automation to autonomous AI agents, standard corporate policy memos, static PDFs, and generic system prompts suffer from severe **context drift**, hallucinations, and governance failures. 
+**4PIA-Core** translates executive leadership intent into machine-executable, open-standard **`SKILL.md`** manifests, as enterprise workflows transition from static automation to autonomous AI agents, standard corporate policy memos, static PDFs, and generic system prompts suffer from severe **context drift**, hallucinations, and governance failures. 
 
 **4PIA (4 People in AI)** translates executive leadership intent into machine-executable, open-standard **`SKILL.md`** manifests. By embedding **Rights-by-Design**, explicit user consent, and zero-trust boundaries directly into runtime agent workflows, 4PIA ensures that autonomous AI copilots acting across enterprise leadership execute tasks within non-negotiable ethical, legal, and operational guardrails.
 
